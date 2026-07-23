@@ -71,8 +71,8 @@ https://sumanthakur.dev
 
 ## 💼 LinkedIn
 
-https://linkedin.com/in/suman-thakur-345954393
+https://linkedin.com/in/suman-rakesh-thakur
 
 ## 📧 Email
 
-Suman2002thakur007@gmail.com
+Suman.thakur.tech@gmail.com
