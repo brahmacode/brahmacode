@@ -1,16 +1,78 @@
-## Hi there 👋
+# Hi 👋, I'm Suman Thakur
 
-<!--
-**brahmacode/brahmacode** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Java Full Stack Developer
 
-Here are some ideas to get you started:
+I'm an aspiring Java Full Stack Developer passionate about building scalable web applications and continuously improving my software engineering skills.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🚀 Tech Stack
+
+### Backend
+- Java
+- Spring Boot
+- REST APIs
+
+### Frontend
+- JavaScript
+- HTML5
+- CSS3
+- Bootstrap
+- React
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- Postman
+- VS Code
+- IntelliJ IDEA
+- Maven
+- Vite
+
+---
+
+## 💼 Internship
+
+Java Full Stack Developer Intern
+
+Worked on Enterprise ERP Application
+
+- Responsive UI
+- REST API Integration
+- Authentication
+- Role-Based Access
+- Git Workflow
+- Debugging
+
+---
+
+## 📌 Featured Projects
+
+### Enterprise ERP Management System
+
+Enterprise ERP application developed during internship with responsive UI, authentication workflows, API integration, and modular architecture.
+
+### Personal Portfolio
+
+Modern portfolio built using React and Vite.
+
+### Authentication Module
+
+Login, session handling, route protection, and REST API integration.
+
+---
+
+## 🌐 Portfolio
+
+https://sumanthakur.dev
+
+## 💼 LinkedIn
+
+https://linkedin.com/in/suman-thakur-345954393
+
+## 📧 Email
+
+Suman2002thakur007@gmail.com
